@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "sku": 7495236,
+      "title": "Cereales Vivo Brunch 1kg",
+      "weightText": "Caja 24 un. (24kg)",
+      "imgSrc": "/img/cereales-vivo-brunch-1kg.svg",
+      "weightKg": 24
+    },
+    {
+      "sku": 9659344,
+      "title": "Cereales Vivo Line 1kg",
+      "weightText": "Caja 18 un. (18kg)",
+      "imgSrc": "/img/cereales-vivo-line-1kg.svg",
+      "weightKg": 18
+    },
+    {
+      "sku": 5153368,
+      "title": "Harina Mont Blanc sin polvos 5kg",
+      "weightText": "Caja 10 un. (50kg)",
+      "imgSrc": "/img/harina-mont-blanc-sin-polvos-5kg.svg",
+      "weightKg": 50
+    },
+    {
+      "sku": 6528999,
+      "title": "Harina Común Selecta 10kg",
+      "weightText": "Caja 5 un. (50kg)",
+      "imgSrc": "/img/harina-común-selecta-10kg.svg",
+      "weightKg": 50
+    },
+    {
+      "sku": 5240063,
+      "title": "Harina Multicereal Selecta 10kg",
+      "weightText": "Caja 3 un. (30kg)",
+      "imgSrc": "/img/harina-multicereal-selecta-10kg.svg",
+      "weightKg": 30
+    },
+    {
+      "sku": 5388418,
+      "title": "Mostaza 5kg",
+      "weightText": "Caja 12 un. (60kg)",
+      "imgSrc": "/img/mostaza-5kg.svg",
+      "weightKg": 60
+    },
+    {
+      "sku": 8960281,
+      "title": "Salsa Pomarola 3kg",
+      "weightText": "Caja 24 un. (72kg)",
+      "imgSrc": "/img/salsa-pomarola-3kg.svg",
+      "weightKg": 72
+    },
+    {
+      "sku": 5258659,
+      "title": "Sémola 3kg",
+      "weightText": "Caja 18 un. (54kg)",
+      "imgSrc": "/img/semola-3kg.svg",
+      "weightKg": 54
+    }
+  ]
+}
